@@ -6,3 +6,7 @@ Day 1:
 - Learned that .git folder stores all history
 - Configured my name and email
 - made my first commit
+
+Day 2:
+- Learned about branches
+- Created first branch called day2-notes
