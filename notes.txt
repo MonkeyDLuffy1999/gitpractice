@@ -11,4 +11,4 @@ Day 2:
 - Learned about branches
 - Created first branch called day2-notes
 
-Edited on github
+Edited on github!
