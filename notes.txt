@@ -1,0 +1,7 @@
+My Git Learning Notes
+=====================
+
+Day 1:
+- Initialized my first git repository
+- Learned that .git folder stores all history
+- Configured my name and email
