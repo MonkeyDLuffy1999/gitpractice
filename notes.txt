@@ -13,3 +13,5 @@ Day 2:
 
 Edited on github! 
 Pushed from git local
+
+Learning to fetch
