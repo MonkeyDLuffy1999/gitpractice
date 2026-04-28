@@ -1,0 +1,33 @@
+$env:Path = "$HOME\.local\bin;$env:Path"
+
+  Phase 1: Setup  
+
+  - Initialize a new git repository in a dedicated folder
+  - Configure your name and email (one-time setup)
+
+  Phase 2: Core Workflow (add → commit → repeat)
+
+  1. Create a notes.txt file with some content
+  2. git status — see what git notices
+  3. git add — stage the file
+  4. git commit — save a snapshot
+  5. Edit the file, repeat steps 2–4 to build up history
+
+  Phase 3: Branching
+
+  1. git branch — see branches
+  2. git checkout -b feature — create and switch to a new branch
+  3. Make changes on the branch, commit them
+  4. git checkout main — switch back
+  5. git merge feature — merge the branch in
+
+  Phase 6: Reviewing History
+
+  - git log — see all commits
+  - git diff — see what changed
+  - git show — inspect a specific commit
+
+  Phase 5: Undoing Things
+
+  - git restore — discard unstaged changes
+  - git reset — unstage or undo commits
